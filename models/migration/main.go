@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/provider-go/content/models"
-	"github.com/provider-go/pkg/go-logger"
+	"github.com/provider-go/pkg/logger"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
 )
